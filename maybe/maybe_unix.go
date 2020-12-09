@@ -7,7 +7,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/google/renameio"
+	"github.com/benitogf/renameio"
 )
 
 // WriteFile mirrors ioutil.WriteFile. On Linux it uses renameio.WriteFile to
