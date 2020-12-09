@@ -1,3 +1,3 @@
-module github.com/google/renameio
+module github.com/benitogf/renameio
 
-go 1.13
+go 1.15

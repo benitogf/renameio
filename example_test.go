@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/google/renameio"
+	"github.com/benitogf/renameio"
 )
 
 func ExampleTempFile_justone() {
